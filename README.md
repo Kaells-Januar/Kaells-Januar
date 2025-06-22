@@ -1,71 +1,69 @@
-<h3 align="left">Hi, Names Kaells</h3>
+<h1 align="center">Hey there 👋, I'm Kaells-Januar</h1>
 
-###
+<p align="center">
+  <img src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnphYTM4dWF4a3FuMXZpdDZ2OHIwN21qa3oxeGEyYzMxcDJ5ZWl0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nYDNbHGL5Olyllo4Ks/giphy.gif ">
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+---
 
-<br clear="both">
+### 🧠 About Me
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaells-Januar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
-</div>
+- 💻 I love exploring tech, clean code, Designing some stuff  
+- 🧪 Currently experimenting with full-stack projects  
+<br>
+<br>
+<br>
+<br>
 
-###
 
-<h4 align="left">Skills</h4>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
-###
-
-<p align="left">Pofile Views</p>
-
-###
-
-<br clear="both">
-
-<img align="left" src="https://profile-counter.glitch.me/Kaells-Januar/count.svg?"  />
-
-###
-
-<br clear="both">
+### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://open.spotify.com/user/azuuya">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=azuuya&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-###
+---
 
-<p align="left">Contribution</p>
+### 🎧 Recently Played on Spotify
 
-###
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31va35iwhl37fnw3wiasbtxflwii&count=3&unique=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaells-Januar&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+---
 
-###
+### 👾 Contribution Graph Animation (Pacman Style)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaells-Januar/Kaells-Januar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaells-Januar/Kaells-Januar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaells-Januar/Kaells-Januar/output/pacman-contribution-graph.svg">
-</picture>
+![Pacman](https://raw.githubusercontent.com/Kaells-Januar/Kaells-Januar/output/pacman-contribution-graph.svg)
 
-###
+---
+
+### 📫 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4zuuya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridwnv@gmail.com)
