@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Kaells-Januar</h1>
+<h1 align="center">Hey there 👋, I'm Kaells</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/nYDNbHGL5Olyllo4Ks/giphy.gif" width="1000"/>
