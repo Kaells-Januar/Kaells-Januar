@@ -1,7 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Kaells-Januar</h1>
 
 <p align="center">
-  <img src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnphYTM4dWF4a3FuMXZpdDZ2OHIwN21qa3oxeGEyYzMxcDJ5ZWl0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nYDNbHGL5Olyllo4Ks/giphy.gif ">
+  <img src="https://media.giphy.com/media/nYDNbHGL5Olyllo4Ks/giphy.gif" width="1000"/>
+
 </p>
 <br>
 <br>
@@ -57,7 +58,7 @@
 
 ---
 
-### 👾 Contribution Graph Animation (Pacman Style)
+### 👾 Contribution Graph
 
 ![Pacman](https://raw.githubusercontent.com/Kaells-Januar/Kaells-Januar/output/pacman-contribution-graph.svg)
 
